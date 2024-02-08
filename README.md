@@ -1,5 +1,10 @@
 # Cloud Segmentation and Forecasting
 
-[Confluence page](https://cloudforecasting.atlassian.net/wiki/x/VQAC)
+## Confluence 
 
-The Confluence page contains our documentation throughtout the project. It contains the presentations , discussions , project planning files etc.,
+The [Confluence page](https://cloudforecasting.atlassian.net/wiki/x/VQAC) contains our documentation throughtout the project. It contains the presentations , discussions , project planning files etc.,
+
+## Data and Trained models
+
+
+The [Google Drive](https://drive.google.com/drive/folders/1Zqoe6IcC4lDn-l16Ai4ma4I-dVnTyz9v) provides the data that we have used for the project and the trained models. The LES data is publicly available [here](https://opendata.physik.lmu.de/5d0k9-q2n86/) also but the projected images and the segmented images are available in our drive link. The drive also provides the ASI segmented images that can be used for segmentation purposes.
