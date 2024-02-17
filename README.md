@@ -15,3 +15,8 @@ The [Google Drive](https://drive.google.com/drive/folders/1Zqoe6IcC4lDn-l16Ai4ma
 1. Download our two models (segmentation and cloud motion estimation) and dataset from google drive
 2. change the paths in app.py.
 3. Run the app.
+
+
+### Short Demo Video
+[View Video](https://github.com/tharun-kumar-22/Cloud-Segmentation-and-Forecasting/blob/e6ede0ca28d5fb45e98856f835c686cdd124edf5/video%20for%20github.mp4)
+   
