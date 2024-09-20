@@ -2,7 +2,7 @@
 
 ## Confluence 
 
-The [Confluence page](https://cloudforecasting.atlassian.net/wiki/x/VQAC) contains our documentation throughtout the project. It contains the presentations , discussions , project planning files etc.,
+The [Confluence page](https://cloudforecasting.atlassian.net/wiki/x/VQAC) contains our documentation throughout the project. It includes the presentations, discussions, project planning files, etc.,
 
 ## Data and Trained models
 
@@ -11,8 +11,8 @@ The [Google Drive](https://drive.google.com/drive/folders/1Zqoe6IcC4lDn-l16Ai4ma
 
 `app.py` - Short demo of segmentation and cloud motion prediction.
 
-#### How to run app..?
-1. Download our two models (segmentation and cloud motion estimation) and dataset from google drive
+#### How to run the app..?
+1. Download our two models (segmentation and cloud motion estimation) and dataset from Google Drive
 2. change the paths in app.py.
 3. Run the app.
 
